@@ -5,7 +5,7 @@ I wrote two functions alongside formatting for the first function for display pu
 To expand my opinion and experience with functional programming. Up until this point I was constrained by only having experience with Clojure which was explained in a way that was poorly concieved.
 
 
-[A demo]((https://youtu.be/NxeqTlCd1bI))
+[A demo](https://youtu.be/NxeqTlCd1bI)
 
 # Development Environment
 
